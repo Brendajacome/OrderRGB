@@ -26,6 +26,6 @@ public class HelloApplication {
             System.exit(0);
         }
 
-        System.out.println("The RGB color code is: (" + R + ", " + G + ", " + B + ")");
+        System.out.println("The RGB color code is: (" + RED + ", " + GREEN + ", " + BLUE + ")");
     }
 }
